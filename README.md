@@ -37,42 +37,12 @@
 - 💼 **FPT Software** - Đang tham gia chương trình đào tạo chuyên nghiệp
 - 🏆 **Thành tích môn học**: Toán Rời Rạc, Cơ Sở Dữ Liệu, Kiến Trúc Máy Tính, Chương Trình Dịch
 
-</details>
-**🏆 Xuất thân**: Cựu học sinh Chuyên Lê Hồng Phong - Nam Định  
-**📊 GPA**: 3.x - Thành quả của sự nỗ lực không ngừng  
-**📖 Phương châm**: *"Học hỏi mỗi ngày, phát triển không ngừng"*
 
 ### 🔥 Điều tôi đang làm:
 - 🌐 **Founder & Manager** - Phenikaa TechLearn Club
 - 👨‍💼 **KrSE Trainee** - Chương trình đào tạo Kỹ sư cầu nối Hàn Quốc tại FPT Software
 - 🛡️ **Cybersecurity Enthusiast** - Tham gia KCSC CTF 2024
-- 💻 **Full-stack Developer** - Phát triển các ứng dụng web hiện đại-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&width=435&lines=Xin+chào!+Tôi+là+Phạm+Thị+Hạnh+## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-statsi?username=phamjhanhjj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamjhanhjj&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phamjhanhjj&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phamjhanhjj&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
-### 🏅 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phamjhanhjj&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>+%40+Phenikaa+University;Passionate+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  
-  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=phamjhanhjj.phamjhanhjj)](https://github.com/phamjhanhjj)
-  [![GitHub followers](https://img.shields.io/github/followers/phamjhanhjj?label=Follow&style=social)](https://github.com/phamjhanhjj)
-  
-</div>
+- 💻 **Full-stack Developer** - Phát triển các ứng dụng web hiện đại
 
 ---
 
@@ -210,12 +180,12 @@ Tôi là một **sinh viên CNTT** đầy nhiệt huyết, luôn khao khát khá
 <details>
 <summary>🎓 Học tập</summary>
 
-- � **GPA**: 3.16/4.0
+- � **GPA**: 3.x/4.0
 - 📖 **Học bổng khuyến học** - Phenikaa University
 
 </details>
 
-## � Hoạt động cộng đồng
+## Hoạt động cộng đồng
 
 <div align="center">
   <img src="https://img.shields.io/badge/🎯-Active_Community_Member-FF6B6B?style=for-the-badge"/>
@@ -228,10 +198,6 @@ Tôi là một **sinh viên CNTT** đầy nhiệt huyết, luôn khao khát khá
 - 💡 **Organizer** các buổi coding meetup tại trường
 - � **Volunteer** trong các sự kiện công nghệ
 
-## � Thống kê GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phamjhanhjj&show_icons=true&theme=radical)
-
 ## 🛠️ Công nghệ tôi sử dụng
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -241,7 +207,7 @@ Tôi là một **sinh viên CNTT** đầy nhiệt huyết, luôn khao khát khá
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## � Kết nối với tôi
+## Kết nối với tôi
 
 <div align="center">
   
